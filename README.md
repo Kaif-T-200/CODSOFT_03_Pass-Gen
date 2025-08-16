@@ -9,9 +9,10 @@ easy-to-use Python GUI!
 
 The **Password Generator** is a Python desktop application built with
 **Tkinter** that allows users to create strong and customizable
-passwords.\
-You can: - Adjust password length\
-- Choose whether to include **letters, numbers, and symbols**\
+passwords.
+
+You can: - Adjust password length
+- Choose whether to include **letters, numbers, and symbols**
 - Instantly check password strength
 
 It also includes **one-click copy to clipboard** and a **reset option**,
@@ -21,14 +22,14 @@ making it practical and user-friendly.
 
 ## ✨ Features
 
--   **Adjustable Password Length** → Range: 4--32 characters\
--   **Include/Exclude Options** → Letters, numbers, and/or symbols\
+-   **Adjustable Password Length** → Range: 4--32 characters
+-   **Include/Exclude Options** → Letters, numbers, and/or symbols
 -   **Randomized Passwords** → Uses Python's `random` and `string`
-    libraries\
+    libraries
 -   **Password Strength Indicator** → Labels passwords as Weak, Medium,
-    or Strong\
--   **Copy to Clipboard** → Click the password field to copy instantly\
--   **Reset Button** → Quickly clear password & reset strength\
+    or Strong
+-   **Copy to Clipboard** → Click the password field to copy instantly
+-   **Reset Button** → Quickly clear password & reset strength
 -   **Clean Tkinter GUI** → Minimal, modern, and responsive
 
 ------------------------------------------------------------------------
@@ -53,11 +54,11 @@ making it practical and user-friendly.
 
 ## ⚙️ How to Run
 
-1.  Make sure you have **Python 3.x** installed.\
+1.  Make sure you have **Python 3.x** installed.
 
-2.  Clone or download this repository.\
+2.  Clone or download this repository.
 
-3.  Open a terminal in the project folder.\
+3.  Open a terminal in the project folder.
 
 4.  Run the app with:
 
@@ -69,10 +70,10 @@ making it practical and user-friendly.
 
 ## 🚀 Usage
 
--   Adjust **Password Length** (4--32)\
--   Choose **Include Letters, Numbers, and Symbols**\
--   Click **Generate Password**\
--   Copy password by clicking on it\
+-   Adjust **Password Length** (4--32)
+-   Choose **Include Letters, Numbers, and Symbols**
+-   Click **Generate Password**
+-   Copy password by clicking on it
 -   Use **Reset** to clear and start fresh
 
 ------------------------------------------------------------------------
