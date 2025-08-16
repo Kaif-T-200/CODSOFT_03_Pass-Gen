@@ -31,16 +31,7 @@ making it practical and user-friendly.
 -   **Copy to Clipboard** → Click the password field to copy instantly
 -   **Reset Button** → Quickly clear password & reset strength
 -   **Clean Tkinter GUI** → Minimal, modern, and responsive
-
-------------------------------------------------------------------------
-
-## 🧰 Tech Stack
-
-  Category   Technology
-  ---------- -----------------------------
-  GUI        Tkinter
-  Backend    Python (`random`, `string`)
-
+  
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
